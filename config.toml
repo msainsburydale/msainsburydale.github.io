@@ -31,7 +31,7 @@ disablePathToLower = true # Do not convert the url/path to lowercase.
   layoutReverse = false
   themeColor = ".theme-base-0d"     # see https://github.com/spf13/hyde for colour options
   mainSections = ["posts"] # specify which section should be displayed on the front page
-  authorimage = "img/nz-photo.jpg"
+  authorimage = "/img/nz-photo.jpg"
   postNavigation = false # enable/disable "previous" and "next" buttons at bottom of page
   relatedPosts = true    # enable/disable "related posts" suggestions
 
