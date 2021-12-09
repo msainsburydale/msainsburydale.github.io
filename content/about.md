@@ -10,4 +10,4 @@ I am a PhD candidate studying spatial and spatio-temporal statistics at the Univ
 My supervisors are [Dr. Andrew Zammit-Mangion](https://andrewzm.wordpress.com/) and [Prof. Noel Cressie](https://www.science.org.au/profile/noel-cressie).
 
 
-{{< file src="CV.pdf" alt="Here">}} is my CV.
+{{< file src="cv.pdf" alt="Here">}} is my CV.
