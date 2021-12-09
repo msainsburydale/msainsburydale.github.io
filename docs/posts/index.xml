@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Matthew Sainsbury-Dale</title>
+    <link>https://msainsburydale.github.io/posts/</link>
+    <description>Recent content in Posts on Matthew Sainsbury-Dale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Dec 2021 09:54:02 +1100</lastBuildDate><atom:link href="https://msainsburydale.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FRK: Fixed Rank Kriging for big, non-Gaussian spatial and spatio-temporal data</title>
+      <link>https://msainsburydale.github.io/posts/frk/</link>
+      <pubDate>Wed, 01 Dec 2021 09:54:02 +1100</pubDate>
+      
+      <guid>https://msainsburydale.github.io/posts/frk/</guid>
+      <description>Brief description, basically a short version of the abstract.
+ Figure 1: Caption  Link to CRAN and GitHub pages. Link to arXiv version of the package, and comment that it is currently under review. Link to 6-page manuscript, maybe mention if I won the award or not.</description>
+    </item>
+    
+  </channel>
+</rss>

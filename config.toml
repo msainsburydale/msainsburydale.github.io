@@ -1,0 +1,41 @@
+baseURL = "https://msainsburydale.github.io"
+languageCode = "en-us"
+title = "Matthew Sainsbury-Dale"
+theme = "hyde-hyde" # "hyde"
+publishDir = "docs"
+disablePathToLower = true # Do not convert the url/path to lowercase.
+
+# Set menu buttons all at once like this.
+[Menus]
+  main = [
+      {Name = "About", url = "/about/", identifier = "about"},
+      {Name = "Research outputs", url = "/research/", identifier = "research"},
+      {Name = "Posts", url = "/posts/", identifier = "posts"},
+      #{Name = "Github", URL = "https://github.com/msainsburydale/"},
+      # {Name = "Email", URL = "mailto:msainsburydale@gmail.com"}
+  ]
+
+# # Or individually, like this:
+# [[menu.main]]
+# name = "About"
+# identifier = "about" # this button will refer to a markdown file named "contact" in the content folder
+# url = "/about"
+
+
+[params]
+  description = "PhD candidate: Spatial and spatio-temporal statistics"
+  # copyright = "Matthew Sainsbury-Dale. All rights reserved."
+  copyright = ""
+  disqusShortname = ""
+  googleAnalytics = ""
+  layoutReverse = false
+  themeColor = ".theme-base-0d"     # see https://github.com/spf13/hyde for colour options
+  mainSections = ["posts"] # specify which section should be displayed on the front page
+  authorimage = "img/nz-photo.jpg"
+  postNavigation = false # enable/disable "previous" and "next" buttons at bottom of page
+  relatedPosts = true    # enable/disable "related posts" suggestions
+
+
+[params.social]
+  	github = "msainsburydale"
+    email = "mailto:msainsburydale@gmail.com"
