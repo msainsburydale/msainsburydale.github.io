@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2021-12-01T09:59:10+11:00
+date: IsZero
 draft: false
 ---
 
